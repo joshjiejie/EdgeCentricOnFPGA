@@ -1,1 +1,1 @@
-Edge-Centric Graph Processing On FPGA
+Accelerate Graph Processing On CPU-FPGA Platforms
